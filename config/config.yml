@@ -1,5 +1,5 @@
 rest:
   ssl: true
-  host: semar.joaoxxiii.com
+  host: semear.joaoxxiii.com
   port: 443
   nameSpace: /server
